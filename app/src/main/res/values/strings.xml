@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2.1.view_components_CheckBox</string>
+    <string name="money">Ввод денег</string>
+    <string name="info_on_payment">Информация об оплате</string>
+    <string name="ok">OK</string>
+    <string name="with_a_credit_card">С банковской карты</string>
+    <string name="mobile_payment">С мобильного телефона</string>
+    <string name="cash_payment">Наличными по адресу</string>
+</resources>
